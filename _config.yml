@@ -1,7 +1,7 @@
 name: hougaard
 favicon: null
 layout_spectrum: 0.31125015881843865
-typography_spectrum: 0.027674747863784432
+typography_spectrum: 0.13601
 cta:
   domain: null
   bucket: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.8708923717495054
   lightness: 0.9762891826685518
   saturation: 0.7093676314689219
-  rhythmicContrast: 0.13478042068891227
+  rhythmicContrast: 0.25
 purpose: []
