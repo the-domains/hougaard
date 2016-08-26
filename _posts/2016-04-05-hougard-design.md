@@ -1,27 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: "hougard design\_"
-datePublished: '2016-04-05T06:02:00.257Z'
-dateModified: '2016-04-05T06:01:58.298Z'
-title: ''
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+datePublished: '2016-08-26T05:53:16.385Z'
 sourcePath: _posts/2016-04-05-hougard-design.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-26T05:53:15.845Z'
+title: ''
+publisher: {}
+description: simple design made live
+inLanguage: null
+inNav: false
+starred: false
 url: hougard-design/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fc87af1-1a5c-489e-a3fd-63a527b4c45f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed37096ef6bf2622f38c91c3d1065cdc6f602e71.jpg)
 
-hougaard design
+simple design made live
